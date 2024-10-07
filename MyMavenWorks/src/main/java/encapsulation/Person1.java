@@ -1,3 +1,9 @@
+//inside cls , decalre var private to achive encapsulation 
+// to access those var in other cls use public getter & setter()
+// data security , data hiding
+// no needs to use extends
+// this is used becoz , local and instance var are same.
+
 package encapsulation;
 
 public class Person1 

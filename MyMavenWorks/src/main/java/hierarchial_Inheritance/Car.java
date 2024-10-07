@@ -1,4 +1,4 @@
-package hierarchial;
+package hierarchial_Inheritance;
 
 public class Car extends Vehicle
 {
